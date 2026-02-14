@@ -14,12 +14,9 @@ I love Data, I love cookies, I love Config
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tamatm11&icon=1&color=1)](https://visitcount.itsvg.in)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamatm11&layout=compact&theme=tokyonight&hide_border=false" width="400" />
-</p>
+## 📊 Detailed Profile Summary:
+[![GitHub Profile Summary](https://img.shields.io/badge/View_Detailed_Summary-tamatm11-blue?style=for-the-badge&logo=github&logoColor=white)](https://profile-summary-for-github.com/user/tamatm11)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamatm11&show_icons=true&theme=tokyonight&count_private=true" width="400" />
-</p>
+*Click here.*
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
