@@ -14,5 +14,12 @@ I love Data, I love cookies, I love Config
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tamatm11&icon=1&color=1)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamatm11&layout=compact&theme=tokyonight&hide_border=false" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tamatm11&show_icons=true&theme=tokyonight&count_private=true" width="400" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
