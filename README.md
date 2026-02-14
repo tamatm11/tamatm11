@@ -20,21 +20,10 @@ I'm just a noob coder, I love data, I love config, I love cyber security.
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamatm11&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tamatm11&show_icons=true&theme=tokyonight&count_private=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamatm11&layout=compact&theme=tokyonight" width="300" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamatm11&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamatm11&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=tamatm11&icon=2&color=0" alt="Visitor Count" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamatm11&theme=tokyonight" />
 </p>
