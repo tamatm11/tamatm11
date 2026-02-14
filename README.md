@@ -14,5 +14,6 @@ I'm just a noob coder, I love data, I love config, I love cyber security.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tamatm11&icon=2&color=0)](https://visitcount.itsvg.in)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamatm11&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
